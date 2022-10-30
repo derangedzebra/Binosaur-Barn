@@ -1,1 +1,1 @@
-test
+Little homes for binoculars! I build these and place them at public places where I feel people would appreciate a better view of nature.
