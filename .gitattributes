@@ -1,0 +1,7 @@
+* text=auto
+*.DXF text eol=crlf
+*.IGS text eol=crlf
+*.IGES text eol=crlf
+*.STP text eol=crlf
+*.STEP text eol=crlf
+*.md text eol=crlf
