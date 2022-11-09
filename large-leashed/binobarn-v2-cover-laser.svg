@@ -7,36 +7,36 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="v2_cover.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   id="svg8"
-   version="1.1"
-   viewBox="0 0 300 210"
+   width="300mm"
    height="210mm"
-   width="300mm">
+   viewBox="0 0 300 210"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="binobarn-v2-cover-laser.svg">
   <defs
      id="defs2" />
   <sodipodi:namedview
-     inkscape:window-maximized="0"
-     inkscape:window-y="0"
-     inkscape:window-x="1706"
-     inkscape:window-height="1347"
-     inkscape:window-width="1718"
-     inkscape:showpageshadow="false"
-     borderlayer="true"
-     showgrid="false"
-     inkscape:document-rotation="0"
-     inkscape:current-layer="layer2"
-     inkscape:document-units="mm"
-     inkscape:cy="492.88655"
-     inkscape:cx="-69.349209"
-     inkscape:zoom="0.49497475"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     borderopacity="1.0"
-     bordercolor="#666666"
+     id="base"
      pagecolor="#ffffff"
-     id="base" />
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="679.03857"
+     inkscape:cy="494.17889"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer2"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     borderlayer="true"
+     inkscape:showpageshadow="false"
+     inkscape:window-width="1718"
+     inkscape:window-height="1347"
+     inkscape:window-x="1706"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -50,59 +50,59 @@
     </rdf:RDF>
   </metadata>
   <g
-     sodipodi:insensitive="true"
-     id="layer1"
-     inkscape:groupmode="layer"
+     style="display:none"
      inkscape:label="background"
-     style="display:none">
+     inkscape:groupmode="layer"
+     id="layer1"
+     sodipodi:insensitive="true">
     <rect
-       y="0"
-       x="0"
-       height="210"
-       width="300"
+       style="fill:#000000;fill-opacity:0.0722891;stroke:none;stroke-width:0;stroke-miterlimit:1.5;stroke-dasharray:none"
        id="rect833"
-       style="fill:#000000;fill-opacity:0.0722891;stroke:none;stroke-width:0;stroke-miterlimit:1.5;stroke-dasharray:none" />
+       width="300"
+       height="210"
+       x="0"
+       y="0" />
   </g>
   <g
-     inkscape:label="cut_outermost"
+     inkscape:groupmode="layer"
      id="layer2"
-     inkscape:groupmode="layer">
+     inkscape:label="cut_outermost">
     <path
-       d="M 225.398 171.98 L 225.398 117.74 L 127.398 117.74 L 127.398 171.98 Z"
+       id="path4226"
        style="fill:none;stroke:#000000;stroke-width:0.238125;stroke-linecap:round"
-       id="path4226" />
+       d="m 224.89793,171.47994 v -53.23988 h -96.99987 v 53.23988 z" />
   </g>
   <g
-     inkscape:label="cut_mid"
+     inkscape:groupmode="layer"
      id="layer3"
-     inkscape:groupmode="layer" />
+     inkscape:label="cut_mid" />
   <g
-     inkscape:label="cut_innermost"
+     inkscape:groupmode="layer"
      id="layer4"
-     inkscape:groupmode="layer">
+     inkscape:label="cut_innermost">
     <path
-       d="m 133.39789,122.24044 a 1.500001,1.500001 0 1 0 -3,0 1.500001,1.500001 0 1 0 3,0 z"
+       id="path4212"
        style="fill:none;stroke:#000000;stroke-width:0.238125;stroke-linecap:round"
-       id="path4212" />
+       d="m 133.39789,122.24044 a 1.500001,1.500001 0 1 0 -3,0 1.500001,1.500001 0 1 0 3,0 z" />
     <path
-       d="m 222.39788,122.24044 a 1.5000023,1.5000023 0 1 0 -3,0 1.5000023,1.5000023 0 1 0 3,0 z"
+       id="path4214"
        style="fill:none;stroke:#000000;stroke-width:0.238125;stroke-linecap:round"
-       id="path4214" />
+       d="m 222.39788,122.24044 a 1.5000023,1.5000023 0 1 0 -3,0 1.5000023,1.5000023 0 1 0 3,0 z" />
     <path
-       d="m 222.39788,167.47972 a 1.5000023,1.5000023 0 1 0 -3,0 1.5000023,1.5000023 0 1 0 3,0 z"
+       id="path4216"
        style="fill:none;stroke:#000000;stroke-width:0.238125;stroke-linecap:round"
-       id="path4216" />
+       d="m 222.39788,167.47972 a 1.5000023,1.5000023 0 1 0 -3,0 1.5000023,1.5000023 0 1 0 3,0 z" />
     <path
-       d="m 133.39789,167.47972 a 1.500001,1.500001 0 1 0 -3,0 1.500001,1.500001 0 1 0 3,0 z"
+       id="path4218"
        style="fill:none;stroke:#000000;stroke-width:0.238125;stroke-linecap:round"
-       id="path4218" />
+       d="m 133.39789,167.47972 a 1.500001,1.500001 0 1 0 -3,0 1.500001,1.500001 0 1 0 3,0 z" />
   </g>
   <g
-     inkscape:label="engrave_2"
+     inkscape:groupmode="layer"
      id="layer5"
-     inkscape:groupmode="layer" />
+     inkscape:label="engrave_2" />
   <g
-     inkscape:label="engrave_1"
+     inkscape:groupmode="layer"
      id="layer6"
-     inkscape:groupmode="layer" />
+     inkscape:label="engrave_1" />
 </svg>
