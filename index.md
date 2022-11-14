@@ -36,6 +36,7 @@ There are a few design principles prioritizing safety and environmental impact:
  * I don't think any animals are going to chew on this thing. I do not use any adhesives just in case an animal licks it.
  * I have to commit to monitoring these installations, or else it'd just be littering. So I can only place these where I visit often
  * I use green for high visibility from afar, where appropriate. There are potential installation locations where brown might be more appropriate.
+ * Design must handle the climate of the region. There are subtle ways I've prevented water from pooling inside.
  
 I didn't care about theft because I visited that location often and can always replenish the box with new binoculars. And... who is actually going to steal these? Kids... kids who love it so much that they pocket it, if they love it so much I just want them to have it.
 
